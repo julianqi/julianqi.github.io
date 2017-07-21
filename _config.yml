@@ -1,9 +1,9 @@
 # Setup
-title:               'Julian Qi'
-tagline:             'life is beautiful'
-description:         'Julian Qi's personal blog.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+title:               "Julian Qi"
+tagline:             "life is beautiful"
+description:         "Julian Qi's personal blog."
+url:                 https://julianqi.github.io
+baseurl:             ""
 paginate:            5
 
 # About/contact
