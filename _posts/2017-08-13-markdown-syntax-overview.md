@@ -1,5 +1,7 @@
-Markdown syntax basics
-======================
+---
+layout: post
+title: Markdown syntax basics
+---
 
 As markdown is a widely used markup language, learning how to use it is very important. 
 So I copied the basic syntax document from it's [offical site](https://daringfireball.net/projects/markdown/basics).
